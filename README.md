@@ -19,3 +19,5 @@
 -https://github.com/FranekChabr
 
 -https://github.com/ciemnv
+
+-https://github.com/Kacperr4
