@@ -15,3 +15,7 @@
 -https://inloop.github.io/sqlite-viewer/
 
 -https://base64.guru/converter/decode/image/png
+
+-https://github.com/FranekChabr
+
+-https://github.com/ciemnv
